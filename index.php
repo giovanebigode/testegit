@@ -1,6 +1,6 @@
 <?php 
-   function calcdobro ($num){
-       $dobro = $num * 2;
+   function calcdobro ($numero){
+       $dobro = $numero * 2;
        return $dobro;
     }
    function calctriplo($num1){
